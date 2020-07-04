@@ -24,3 +24,4 @@ officedepot.com
 travelzoo.com
 hottopic.com
 kirklands.com
+delivery.com
